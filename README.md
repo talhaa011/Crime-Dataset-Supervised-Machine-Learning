@@ -101,4 +101,4 @@ The primary model used is a **Random Forest Classifier**. Steps include:
 For any inquiries or collaboration, feel free to reach out:
 
 - 📧 **Email**: muhammadtalha3589@gmail.com
-- 💼 **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn)
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/muhammad-talha-sial/)
